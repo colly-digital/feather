@@ -8,7 +8,7 @@ FROM swiftlang/swift:nightly-5.5-focal as build
 RUN export DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true \
     && apt-get -q update \
     && apt-get -q dist-upgrade -y \
-    && apt-get -q install libgd-dev -y \
+    && apt-get -q install libxml2-dev -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Set up a build area
@@ -47,7 +47,7 @@ FROM swiftlang/swift:nightly-5.5-focal
 # Make sure all system packages are up to date.
 RUN export DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true && \
     apt-get -q update && apt-get -q dist-upgrade -y \
-        && apt-get -q install libgd3 -y \
+        && apt-get -q install libxml2 -y \
         && rm -r /var/lib/apt/lists/*
 
 # Create a vapor user and group with /app as its home directory
