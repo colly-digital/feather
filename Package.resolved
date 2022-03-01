@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/feathercms/aggregator-module",
         "state": {
           "branch": "dev",
-          "revision": "7572a7aa33ec0eb4cd1518ac5168bf0004d585d8",
+          "revision": "999a109cd48dca2d2fe8407a4254e40da910d0f9",
           "version": null
         }
       },
@@ -24,7 +24,7 @@
         "repositoryURL": "https://github.com/feathercms/analytics-module",
         "state": {
           "branch": "dev",
-          "revision": "88cb17ab589c9fda53cb44bfc8bfd217f8c52f2b",
+          "revision": "13c171b4263d3820cc33a17125257704ea6467ca",
           "version": null
         }
       },
@@ -51,7 +51,7 @@
         "repositoryURL": "https://github.com/feathercms/blog-module",
         "state": {
           "branch": "dev",
-          "revision": "369f3ea0eb95496351a5493f1e781f58f58bb570",
+          "revision": "df510f4c4806eac40d70e5add7e885bf9bc37060",
           "version": null
         }
       },
@@ -69,7 +69,7 @@
         "repositoryURL": "https://github.com/feathercms/feather-core",
         "state": {
           "branch": "dev",
-          "revision": "34189042d46459d6082c20d2f6d404a079538c0f",
+          "revision": "a54c9323416e5a45f7a2d9b4ee601444ff04f154",
           "version": null
         }
       },
@@ -150,7 +150,7 @@
         "repositoryURL": "https://github.com/feathercms/markdown-module",
         "state": {
           "branch": "dev",
-          "revision": "53bed71092456537149d926c6d348d5f8d917e2e",
+          "revision": "d127e21560a331f4ae3e82da1f38978f80646871",
           "version": null
         }
       },
@@ -168,7 +168,7 @@
         "repositoryURL": "https://github.com/feathercms/redirect-module",
         "state": {
           "branch": "dev",
-          "revision": "7345d47b881b58ff46ec2c4e4ace80b7a05de658",
+          "revision": "ba45f191e68e4e8457b6e995f7d465c9dc31a2df",
           "version": null
         }
       },
@@ -321,7 +321,7 @@
         "repositoryURL": "https://github.com/feathercms/swifty-module",
         "state": {
           "branch": "dev",
-          "revision": "2f76c136044fe09dbefbd7d018124e74f66cd1c7",
+          "revision": "447bc4009c262520341ae21e328098c14ef29c5f",
           "version": null
         }
       },
