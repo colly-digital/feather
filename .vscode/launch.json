@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug Feather",
+            "program": "${workspaceFolder:feather}/.build/debug/Feather",
+            "args": [],
+            "cwd": "${workspaceFolder:feather}",
+            "preLaunchTask": "swift: Build Debug Feather"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release Feather",
+            "program": "${workspaceFolder:feather}/.build/release/Feather",
+            "args": [],
+            "cwd": "${workspaceFolder:feather}",
+            "preLaunchTask": "swift: Build Release Feather"
+        }
+    ]
+}

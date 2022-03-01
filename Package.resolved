@@ -11,6 +11,24 @@
         }
       },
       {
+        "package": "aggregator-module",
+        "repositoryURL": "https://github.com/feathercms/aggregator-module",
+        "state": {
+          "branch": "dev",
+          "revision": "7572a7aa33ec0eb4cd1518ac5168bf0004d585d8",
+          "version": null
+        }
+      },
+      {
+        "package": "analytics-module",
+        "repositoryURL": "https://github.com/feathercms/analytics-module",
+        "state": {
+          "branch": "dev",
+          "revision": "88cb17ab589c9fda53cb44bfc8bfd217f8c52f2b",
+          "version": null
+        }
+      },
+      {
         "package": "async-http-client",
         "repositoryURL": "https://github.com/swift-server/async-http-client.git",
         "state": {
@@ -29,12 +47,30 @@
         }
       },
       {
+        "package": "blog-module",
+        "repositoryURL": "https://github.com/feathercms/blog-module",
+        "state": {
+          "branch": "dev",
+          "revision": "369f3ea0eb95496351a5493f1e781f58f58bb570",
+          "version": null
+        }
+      },
+      {
         "package": "console-kit",
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
           "branch": null,
           "revision": "75ea3b627d88221440b878e5dfccc73fd06842ed",
           "version": "4.2.7"
+        }
+      },
+      {
+        "package": "feather-core",
+        "repositoryURL": "https://github.com/feathercms/feather-core",
+        "state": {
+          "branch": "dev",
+          "revision": "34189042d46459d6082c20d2f6d404a079538c0f",
+          "version": null
         }
       },
       {
@@ -110,12 +146,30 @@
         }
       },
       {
+        "package": "markdown-module",
+        "repositoryURL": "https://github.com/feathercms/markdown-module",
+        "state": {
+          "branch": "dev",
+          "revision": "53bed71092456537149d926c6d348d5f8d917e2e",
+          "version": null
+        }
+      },
+      {
         "package": "multipart-kit",
         "repositoryURL": "https://github.com/vapor/multipart-kit.git",
         "state": {
           "branch": null,
           "revision": "2dd9368a3c9580792b77c7ef364f3735909d9996",
           "version": "4.5.1"
+        }
+      },
+      {
+        "package": "redirect-module",
+        "repositoryURL": "https://github.com/feathercms/redirect-module",
+        "state": {
+          "branch": "dev",
+          "revision": "7345d47b881b58ff46ec2c4e4ace80b7a05de658",
+          "version": null
         }
       },
       {
@@ -260,6 +314,15 @@
           "branch": null,
           "revision": "8ab824b140d0ebcd87e9149266ddc353e3705a3e",
           "version": "1.11.4"
+        }
+      },
+      {
+        "package": "swifty-module",
+        "repositoryURL": "https://github.com/feathercms/swifty-module",
+        "state": {
+          "branch": "dev",
+          "revision": "2f76c136044fe09dbefbd7d018124e74f66cd1c7",
+          "version": null
         }
       },
       {
