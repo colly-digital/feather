@@ -21,10 +21,10 @@ if isLocalDevMode {
 }
 else {
     dependencies += [
-        .package(url: "https://github.com/feathercms/feather-core", .branch("dev")),
+        .package(url: "https://github.com/feathercms/feather-core", .revision("a54c9323416e5a45f7a2d9b4ee601444ff04f154")),
         .package(url: "https://github.com/feathercms/analytics-module", .branch("dev")),
         .package(url: "https://github.com/feathercms/aggregator-module", .branch("dev")),
-        .package(url: "https://github.com/feathercms/blog-module", .branch("dev")),
+        .package(url: "https://github.com/colly-digital/blog-module", .branch("colly")),
         .package(url: "https://github.com/feathercms/markdown-module", .branch("dev")),
         .package(url: "https://github.com/feathercms/redirect-module", .branch("dev")),
         .package(url: "https://github.com/feathercms/swifty-module", .branch("dev")),

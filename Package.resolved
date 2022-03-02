@@ -47,15 +47,6 @@
         }
       },
       {
-        "package": "blog-module",
-        "repositoryURL": "https://github.com/feathercms/blog-module",
-        "state": {
-          "branch": "dev",
-          "revision": "df510f4c4806eac40d70e5add7e885bf9bc37060",
-          "version": null
-        }
-      },
-      {
         "package": "console-kit",
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
