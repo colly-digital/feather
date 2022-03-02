@@ -20,7 +20,8 @@ WORKDIR /build
 # as long as your Package.swift/Package.resolved
 # files do not change.
 COPY ./Package.* ./
-RUN swift package resolve
+# temporarily disable
+# RUN swift package resolve
 
 # Copy entire repo into container
 COPY . .
