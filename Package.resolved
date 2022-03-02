@@ -2,33 +2,6 @@
   "object": {
     "pins": [
       {
-        "package": "ALanguageParser",
-        "repositoryURL": "https://github.com/matsoftware/accept-language-parser",
-        "state": {
-          "branch": null,
-          "revision": "0a6d89e0159b2f926b35a9f6ee28b6f9c1e84a1b",
-          "version": "1.0.0"
-        }
-      },
-      {
-        "package": "aggregator-module",
-        "repositoryURL": "https://github.com/feathercms/aggregator-module",
-        "state": {
-          "branch": "dev",
-          "revision": "999a109cd48dca2d2fe8407a4254e40da910d0f9",
-          "version": null
-        }
-      },
-      {
-        "package": "analytics-module",
-        "repositoryURL": "https://github.com/feathercms/analytics-module",
-        "state": {
-          "branch": "dev",
-          "revision": "13c171b4263d3820cc33a17125257704ea6467ca",
-          "version": null
-        }
-      },
-      {
         "package": "async-http-client",
         "repositoryURL": "https://github.com/swift-server/async-http-client.git",
         "state": {
@@ -92,24 +65,6 @@
         }
       },
       {
-        "package": "Ink",
-        "repositoryURL": "https://github.com/JohnSundell/Ink",
-        "state": {
-          "branch": null,
-          "revision": "77c3d8953374a9cf5418ef0bd7108524999de85a",
-          "version": "0.5.1"
-        }
-      },
-      {
-        "package": "Kanna",
-        "repositoryURL": "https://github.com/tid-kijyun/Kanna.git",
-        "state": {
-          "branch": null,
-          "revision": "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
-          "version": "5.2.7"
-        }
-      },
-      {
         "package": "liquid",
         "repositoryURL": "https://github.com/binarybirds/liquid",
         "state": {
@@ -137,30 +92,12 @@
         }
       },
       {
-        "package": "markdown-module",
-        "repositoryURL": "https://github.com/feathercms/markdown-module",
-        "state": {
-          "branch": "dev",
-          "revision": "d127e21560a331f4ae3e82da1f38978f80646871",
-          "version": null
-        }
-      },
-      {
         "package": "multipart-kit",
         "repositoryURL": "https://github.com/vapor/multipart-kit.git",
         "state": {
           "branch": null,
           "revision": "2dd9368a3c9580792b77c7ef364f3735909d9996",
           "version": "4.5.1"
-        }
-      },
-      {
-        "package": "redirect-module",
-        "repositoryURL": "https://github.com/feathercms/redirect-module",
-        "state": {
-          "branch": "dev",
-          "revision": "ba45f191e68e4e8457b6e995f7d465c9dc31a2df",
-          "version": null
         }
       },
       {
@@ -179,15 +116,6 @@
           "branch": null,
           "revision": "aecab17649ac83133daa98e54620911773227946",
           "version": "1.2.2"
-        }
-      },
-      {
-        "package": "Splash",
-        "repositoryURL": "https://github.com/JohnSundell/Splash",
-        "state": {
-          "branch": null,
-          "revision": "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
-          "version": "0.16.0"
         }
       },
       {
@@ -305,24 +233,6 @@
           "branch": null,
           "revision": "8ab824b140d0ebcd87e9149266ddc353e3705a3e",
           "version": "1.11.4"
-        }
-      },
-      {
-        "package": "swifty-module",
-        "repositoryURL": "https://github.com/feathercms/swifty-module",
-        "state": {
-          "branch": "dev",
-          "revision": "447bc4009c262520341ae21e328098c14ef29c5f",
-          "version": null
-        }
-      },
-      {
-        "package": "UAParserSwift",
-        "repositoryURL": "https://github.com/malcommac/UAParserSwift",
-        "state": {
-          "branch": null,
-          "revision": "a8057c7cff60db2cdf31d0a0a68ce430754ab64e",
-          "version": "1.2.1"
         }
       },
       {
