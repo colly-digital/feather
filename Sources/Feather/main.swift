@@ -10,7 +10,7 @@ import FluentSQLiteDriver
 import LiquidLocalDriver
 import AnalyticsModule
 import AggregatorModule
-import BlogModule
+// import BlogModule
 import MarkdownModule
 import RedirectModule
 import SwiftyModule
@@ -35,7 +35,7 @@ public func configure(_ app: Application) throws {
     let modules: [FeatherModule] = [
         AnalyticsBuilder(),
         AggregatorBuilder(),
-        BlogBuilder(),
+        // BlogBuilder(),
         MarkdownBuilder(),
         RedirectBuilder(),
         SwiftyBuilder(),
