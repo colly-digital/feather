@@ -2,6 +2,33 @@
   "object": {
     "pins": [
       {
+        "package": "ALanguageParser",
+        "repositoryURL": "https://github.com/matsoftware/accept-language-parser",
+        "state": {
+          "branch": null,
+          "revision": "0a6d89e0159b2f926b35a9f6ee28b6f9c1e84a1b",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "aggregator-module",
+        "repositoryURL": "https://github.com/colly-digital/aggregator-module",
+        "state": {
+          "branch": "colly",
+          "revision": "5a3f625128d78fa2196a91ea3a955efe8b3e7ebd",
+          "version": null
+        }
+      },
+      {
+        "package": "analytics-module",
+        "repositoryURL": "https://github.com/colly-digital/analytics-module",
+        "state": {
+          "branch": "colly",
+          "revision": "134c5f8dd2db8bf96437807e6ec64fb85778de00",
+          "version": null
+        }
+      },
+      {
         "package": "async-http-client",
         "repositoryURL": "https://github.com/swift-server/async-http-client.git",
         "state": {
@@ -83,6 +110,15 @@
         }
       },
       {
+        "package": "Kanna",
+        "repositoryURL": "https://github.com/tid-kijyun/Kanna.git",
+        "state": {
+          "branch": null,
+          "revision": "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
+          "version": "5.2.7"
+        }
+      },
+      {
         "package": "liquid",
         "repositoryURL": "https://github.com/binarybirds/liquid",
         "state": {
@@ -125,6 +161,15 @@
           "branch": null,
           "revision": "2dd9368a3c9580792b77c7ef364f3735909d9996",
           "version": "4.5.1"
+        }
+      },
+      {
+        "package": "redirect-module",
+        "repositoryURL": "https://github.com/colly-digital/redirect-module",
+        "state": {
+          "branch": "colly",
+          "revision": "e97b4bf433e83f12cfc1d3fb3a418f2c13165de0",
+          "version": null
         }
       },
       {
@@ -278,6 +323,15 @@
           "branch": "colly",
           "revision": "bce07c2b14208a61bc591f44d4c8869291fc5c78",
           "version": null
+        }
+      },
+      {
+        "package": "UAParserSwift",
+        "repositoryURL": "https://github.com/malcommac/UAParserSwift",
+        "state": {
+          "branch": null,
+          "revision": "a8057c7cff60db2cdf31d0a0a68ce430754ab64e",
+          "version": "1.2.1"
         }
       },
       {
