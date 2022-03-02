@@ -8,11 +8,11 @@
 @_exported import FeatherCore
 import FluentSQLiteDriver
 import LiquidLocalDriver
-import AnalyticsModule
-import AggregatorModule
+//import AnalyticsModule
+//import AggregatorModule
 import BlogModule
 import MarkdownModule
-import RedirectModule
+//import RedirectModule
 import SwiftyModule
 
 /// https://github.com/vapor/fluent/blob/main/Sources/Fluent/Exports.swift
@@ -33,11 +33,11 @@ public func configure(_ app: Application) throws {
                                 workDirectory: Feather.Directories.assets), as: .local)
     
     let modules: [FeatherModule] = [
-        AnalyticsBuilder(),
-        AggregatorBuilder(),
+//        AnalyticsBuilder(),
+//        AggregatorBuilder(),
         BlogBuilder(),
         MarkdownBuilder(),
-        RedirectBuilder(),
+//        RedirectBuilder(),
         SwiftyBuilder(),
     ].map { $0.build() }
     

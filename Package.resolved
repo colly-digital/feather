@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "blog-module",
+        "repositoryURL": "https://github.com/colly-digital/blog-module",
+        "state": {
+          "branch": "colly",
+          "revision": "a3347e7f2f60dea862410e3aeb888e1055f1b8fe",
+          "version": null
+        }
+      },
+      {
         "package": "console-kit",
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
@@ -32,7 +41,7 @@
         "package": "feather-core",
         "repositoryURL": "https://github.com/feathercms/feather-core",
         "state": {
-          "branch": "dev",
+          "branch": null,
           "revision": "a54c9323416e5a45f7a2d9b4ee601444ff04f154",
           "version": null
         }
@@ -65,6 +74,15 @@
         }
       },
       {
+        "package": "Ink",
+        "repositoryURL": "https://github.com/JohnSundell/Ink",
+        "state": {
+          "branch": null,
+          "revision": "77c3d8953374a9cf5418ef0bd7108524999de85a",
+          "version": "0.5.1"
+        }
+      },
+      {
         "package": "liquid",
         "repositoryURL": "https://github.com/binarybirds/liquid",
         "state": {
@@ -92,6 +110,15 @@
         }
       },
       {
+        "package": "markdown-module",
+        "repositoryURL": "https://github.com/colly-digital/markdown-module",
+        "state": {
+          "branch": "colly",
+          "revision": "ebd2f9a5c582d0cba2a8f32092ecdf0e814948d6",
+          "version": null
+        }
+      },
+      {
         "package": "multipart-kit",
         "repositoryURL": "https://github.com/vapor/multipart-kit.git",
         "state": {
@@ -116,6 +143,15 @@
           "branch": null,
           "revision": "aecab17649ac83133daa98e54620911773227946",
           "version": "1.2.2"
+        }
+      },
+      {
+        "package": "Splash",
+        "repositoryURL": "https://github.com/JohnSundell/Splash",
+        "state": {
+          "branch": null,
+          "revision": "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+          "version": "0.16.0"
         }
       },
       {
@@ -233,6 +269,15 @@
           "branch": null,
           "revision": "8ab824b140d0ebcd87e9149266ddc353e3705a3e",
           "version": "1.11.4"
+        }
+      },
+      {
+        "package": "swifty-module",
+        "repositoryURL": "https://github.com/colly-digital/swifty-module",
+        "state": {
+          "branch": "colly",
+          "revision": "bce07c2b14208a61bc591f44d4c8869291fc5c78",
+          "version": null
         }
       },
       {
